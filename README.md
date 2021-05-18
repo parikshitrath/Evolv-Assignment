@@ -58,7 +58,7 @@ LEVEL 1
   • GET : Get all the blogs (Request URL :- http://127.0.0.1:5000/display_blog)
   
   
-  ![picture](display blog.PNG)
+  ![picture](display_blog_method.PNG)
   
   
   • GET : Get a blog by id (Request URL :- http://127.0.0.1:5000/display_blog_by_id/2)
