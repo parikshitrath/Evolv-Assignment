@@ -78,7 +78,7 @@ LEVEL 1
   • DELETE : Delete a blog with given id (Request URL :- http://127.0.0.1:5000/delete_blog/1)
   
   
-  ![picture](delete blog.PNG)
+  ![picture](delete_blog.PNG)
   
   
 LEVEL 2
